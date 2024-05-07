@@ -1,1 +1,1 @@
-# minidevconf2024
+# Mini Deb Conf 2024
